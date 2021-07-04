@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuscarPessoa/1.0.0": {
+        "runtime": {
+          "BuscarPessoa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuscarPessoa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

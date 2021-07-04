@@ -1,0 +1,13 @@
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.exe
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.deps.json
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.runtimeconfig.json
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.dll
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\bin\Debug\netcoreapp3.1\BuscarPessoa.pdb
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.AssemblyInfo.cs
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.dll
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.pdb
+C:\Users\Enos\source\repos\BuscarPessoa\BuscarPessoa\obj\Debug\netcoreapp3.1\BuscarPessoa.genruntimeconfig.cache
