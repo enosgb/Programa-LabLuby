@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.exe
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.deps.json
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.json
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\Enos\source\repos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.exe
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.deps.json
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.json
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\Enos\source\repos\1.3 NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.genruntimeconfig.cache
