@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.exe
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.deps.json
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.json
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfo.cs
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\Enos\source\repos\CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.exe
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.deps.json
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.json
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\bin\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.dll
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.pdb
+C:\Users\Enos\source\repos\1.6 CalcularDiferencaData\CalcularDiferencaData\obj\Debug\netcoreapp3.1\CalcularDiferencaData.genruntimeconfig.cache

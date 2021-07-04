@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalcularDiferencaData/1.0.0": {
+        "runtime": {
+          "CalcularDiferencaData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularDiferencaData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
