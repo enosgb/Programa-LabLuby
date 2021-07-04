@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.exe
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.deps.json
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.runtimeconfig.json
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.dll
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.pdb
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.AssemblyInfo.cs
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.dll
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.pdb
+C:\Users\Enos\source\repos\TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.exe
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.deps.json
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.runtimeconfig.json
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.dll
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\bin\Debug\netcoreapp3.1\TransformarEmMatriz.pdb
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.dll
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.pdb
+C:\Users\Enos\source\repos\1.9 TransformarEmMatriz\TransformarEmMatriz\obj\Debug\netcoreapp3.1\TransformarEmMatriz.genruntimeconfig.cache
