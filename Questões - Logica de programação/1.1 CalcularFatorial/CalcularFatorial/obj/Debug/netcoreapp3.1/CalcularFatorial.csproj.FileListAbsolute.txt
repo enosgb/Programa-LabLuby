@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.exe
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.deps.json
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.runtimeconfig.json
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.dll
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.pdb
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.AssemblyInfo.cs
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.dll
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.pdb
+C:\Users\Enos\source\repos\CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.exe
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.deps.json
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.runtimeconfig.json
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.dll
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\bin\Debug\netcoreapp3.1\CalcularFatorial.pdb
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.dll
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.pdb
+C:\Users\Enos\source\repos\1.1 CalcularFatorial\CalcularFatorial\obj\Debug\netcoreapp3.1\CalcularFatorial.genruntimeconfig.cache
