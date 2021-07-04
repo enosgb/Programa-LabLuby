@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfo.cs
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.exe
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.deps.json
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.json
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\Enos\source\repos\CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.exe
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.deps.json
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.json
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\bin\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.dll
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.pdb
+C:\Users\Enos\source\repos\1.4 CalcularVogais\CalcularVogais\obj\Debug\netcoreapp3.1\CalcularVogais.genruntimeconfig.cache
