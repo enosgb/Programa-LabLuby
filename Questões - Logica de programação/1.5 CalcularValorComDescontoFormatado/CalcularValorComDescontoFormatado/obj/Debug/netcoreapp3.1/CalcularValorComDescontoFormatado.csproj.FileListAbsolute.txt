@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.exe
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.deps.json
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.runtimeconfig.json
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.dll
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.pdb
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.AssemblyInfo.cs
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.dll
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.pdb
+C:\Users\Enos\source\repos\CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.exe
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.deps.json
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.runtimeconfig.json
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.dll
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\bin\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.pdb
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.dll
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.pdb
+C:\Users\Enos\source\repos\1.5 CalcularValorComDescontoFormatado\CalcularValorComDescontoFormatado\obj\Debug\netcoreapp3.1\CalcularValorComDescontoFormatado.genruntimeconfig.cache
