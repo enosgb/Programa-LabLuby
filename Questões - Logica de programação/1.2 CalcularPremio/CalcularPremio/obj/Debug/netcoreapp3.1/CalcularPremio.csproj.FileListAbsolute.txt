@@ -1,0 +1,26 @@
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfo.cs
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.exe
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.deps.json
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.json
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\Enos\source\repos\CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.genruntimeconfig.cache
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.exe
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.deps.json
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.json
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.runtimeconfig.dev.json
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\bin\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csprojAssemblyReference.cache
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfoInputs.cache
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.AssemblyInfo.cs
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.csproj.CoreCompileInputs.cache
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.dll
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.pdb
+C:\Users\Enos\source\repos\1.2 CalcularPremio\CalcularPremio\obj\Debug\netcoreapp3.1\CalcularPremio.genruntimeconfig.cache
