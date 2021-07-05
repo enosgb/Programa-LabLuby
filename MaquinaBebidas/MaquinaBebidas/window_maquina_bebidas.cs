@@ -12,15 +12,16 @@ namespace MaquinaBebidas
 {
     public partial class window_maquina_bebidas : Form
     {
+        static List<Bebida> bebidas;
+
         public window_maquina_bebidas()
         {
-            List<string> estoque = new List<string>();
-
             InitializeComponent();
         }
 
         private void btn_Zerar_Estoque_Click(object sender, EventArgs e)
         {
+            
             lb_Estoque_Agua.Text = "0";
             lb_Estoque_CocaCola.Text = "0";
             lb_Estoque_Guarana.Text = "0";
@@ -30,7 +31,16 @@ namespace MaquinaBebidas
 
         private void btb_Abastecer_Estoque_Click(object sender, EventArgs e)
         {
-            lb_Estoque_Agua.Text = (Int32.Parse(lb_Estoque_Agua.Text) + 10).ToString();
+
+            List<Bebida> bebidas = new List<Bebida>();
+            bebidas.Add(new Bebida("Água",3.50, Int32.Parse(lb_Estoque_Agua.Text) + 10));
+
+            //lb_Estoque_Agua.Text = ().ToString();
+
+            
+
+            MessageBox.Show(string.Format("{0} {1} {2}",b.descricao,b.valor,b.estoque));
+
             lb_Estoque_CocaCola.Text = (Int32.Parse(lb_Estoque_CocaCola.Text) + 10).ToString();
             lb_Estoque_Guarana.Text = (Int32.Parse(lb_Estoque_Guarana.Text) + 10).ToString();
             lb_Estoque_Pepsi.Text = (Int32.Parse(lb_Estoque_Pepsi.Text) + 10).ToString();
