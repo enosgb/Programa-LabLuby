@@ -17,11 +17,14 @@ namespace MaquinaBebidas
         static int VendaId = 0;
         static double Dinheiro;
         static double Troco;
+       
         public Window_maquina_bebidas()
         {
+            
             vendas = new List<Venda>();
             bebidas = new List<Bebida>();
 
+            //Criando as bebidas
             bebidas.Add(new Bebida("Água", 1.50, 0));
             bebidas.Add(new Bebida("Coca-Cola", 3.50, 0));
             bebidas.Add(new Bebida("Guaraná", 2.75, 0));
@@ -31,36 +34,77 @@ namespace MaquinaBebidas
             InitializeComponent();
         }
 
-        private void btn_Zerar_Estoque_Click(object sender, EventArgs e)
+        public void RealizarVenda(string bebida,Label labelEstoque) 
         {
+            //Função para realizar Venda
+            bool ComEstoque = false;
+            bool ComDinheiro = false;
             foreach (Bebida b in bebidas)
             {
-                b.estoque = 0;
-                if (b.descricao == "Água") lb_Estoque_Agua.Text = (b.estoque).ToString();
-                if (b.descricao == "Coca-Cola") lb_Estoque_CocaCola.Text = (b.estoque).ToString();
-                if (b.descricao == "Guaraná") lb_Estoque_Guarana.Text = (b.estoque).ToString();
-                if (b.descricao == "Pepsi") lb_Estoque_Pepsi.Text = (b.estoque).ToString();
-                if (b.descricao == "Soda") lb_Estoque_Soda.Text = (b.estoque).ToString();
+                if (b.Descricao == bebida && b.Estoque > 0)
+                {
+                    ComEstoque = true;
+                }
+                if (b.Descricao == bebida && Dinheiro >= b.Valor)
+                {
+                    ComDinheiro = true;
+                }
+                if (b.Descricao == bebida && ComDinheiro && ComEstoque)
+                {
+                    b.Estoque = b.Estoque - 1;
+                    Troco = Dinheiro - b.Valor;
+                    Dinheiro = Dinheiro - b.Valor;
+                    labelEstoque.Text = b.Estoque.ToString();
+                    lb_Troco.Text = Troco.ToString("C");
+                    VendaId += 1;
+                    vendas.Add(new Venda(VendaId, b.Descricao, b.Valor));
+                    Variaveis_Globais.Instance.ListaVendas = vendas;
+                }
+                if (!ComDinheiro && b.Descricao == bebida)
+                {
+                    double Faltante = b.Valor - Dinheiro;
+                    lb_Dinheiro.Text = Dinheiro.ToString("C");
+                    lb_Troco.Text = "R$ 0,00";
+                    MessageBox.Show("Saldo Insuficiente! Insira:" + Faltante.ToString("C"), "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
+            if (!ComEstoque)
+            {
+                MessageBox.Show("Estoque indisponivel!", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+        private void btn_Zerar_Estoque_Click(object sender, EventArgs e)
+        {
+            //Zera Estoque
+            foreach (Bebida b in bebidas)
+            {
+                b.Estoque = 0;
+                if (b.Descricao == "Água") lb_Estoque_Agua.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Coca-Cola") lb_Estoque_CocaCola.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Guaraná") lb_Estoque_Guarana.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Pepsi") lb_Estoque_Pepsi.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Soda") lb_Estoque_Soda.Text = (b.Estoque).ToString();
             }
         }
 
         private void btb_Abastecer_Estoque_Click(object sender, EventArgs e)
         {
-
+            //Abastecer Estoque
             foreach (Bebida b in bebidas)
             {
-                b.estoque = b.estoque + 10;
-                if (b.descricao == "Água") lb_Estoque_Agua.Text = (b.estoque).ToString();
-                if (b.descricao == "Coca-Cola") lb_Estoque_CocaCola.Text = (b.estoque).ToString();
-                if (b.descricao == "Guaraná") lb_Estoque_Guarana.Text = (b.estoque).ToString();
-                if (b.descricao == "Pepsi") lb_Estoque_Pepsi.Text = (b.estoque).ToString();
-                if (b.descricao == "Soda") lb_Estoque_Soda.Text = (b.estoque).ToString();
+                b.Estoque = b.Estoque + 10;
+                if (b.Descricao == "Água") lb_Estoque_Agua.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Coca-Cola") lb_Estoque_CocaCola.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Guaraná") lb_Estoque_Guarana.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Pepsi") lb_Estoque_Pepsi.Text = (b.Estoque).ToString();
+                if (b.Descricao == "Soda") lb_Estoque_Soda.Text = (b.Estoque).ToString();
             }
 
         }
 
         private void btn_Zerar_Click(object sender, EventArgs e)
         {
+            //OU btn Nova Venda
             Dinheiro = 0;
             Troco = 0;
             lb_Dinheiro.Text = "R$ 0,00";
@@ -87,60 +131,39 @@ namespace MaquinaBebidas
 
         private void btn_Comprar_Agua_Click(object sender, EventArgs e)
         {
-            bool ComEstoque = false;
-            bool ComDinheiro = false;
-            foreach (Bebida b in bebidas)
-            {
-                if (b.descricao == "Água" && b.estoque > 0){
-                    ComEstoque = true;
-                }
-                if (b.descricao == "Água" && Dinheiro >= b.valor){
-                    ComDinheiro = true;
-                }
-                if (b.descricao == "Água" && ComDinheiro && ComEstoque){
-                    b.estoque = b.estoque - 1;
-                    Troco = Dinheiro - b.valor;
-                    Dinheiro = Dinheiro - b.valor;
-                    lb_Estoque_Agua.Text = b.estoque.ToString();
-                    lb_Troco.Text = Troco.ToString("C");
-                    VendaId += 1;
-                    vendas.Add(new Venda(VendaId, b.descricao, b.valor));
-                }
-            }
-            if (!ComEstoque) {
-                    MessageBox.Show("Estoque indisponivel!", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            if (!ComDinheiro) {
-                    MessageBox.Show("Saldo Insuficiente!","Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            
+            RealizarVenda("Água",lb_Estoque_Agua);
         }
 
         private void btn_Comprar_Guarana_Click(object sender, EventArgs e)
         {
-
+           RealizarVenda("Guaraná",lb_Estoque_Guarana);
         }
-
         private void btn_Comprar_Pepsi_Click(object sender, EventArgs e)
         {
-
+            RealizarVenda("Pepsi",lb_Estoque_Pepsi);
         }
 
         private void btn_Comprar_Soda_Click(object sender, EventArgs e)
         {
-
+            RealizarVenda("Soda",lb_Estoque_Soda);
         }
 
         private void btn_Comprar_CocaCola_Click(object sender, EventArgs e)
         {
-
+            RealizarVenda("Coca-Cola",lb_Estoque_CocaCola);
         }
 
         private void btn_Vendas_Realizadas_Click(object sender, EventArgs e)
         {
-            Window_vendas Wvenda = new Window_vendas();
-            Wvenda.Show();
+            if (vendas.Count > 0){
+                Window_Vendas Wvenda = new Window_Vendas();
+                Wvenda.Show();
+            }
+            else{
+                MessageBox.Show("Nenhma Venda Realizada", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+
         }
-        
+
     }
 }

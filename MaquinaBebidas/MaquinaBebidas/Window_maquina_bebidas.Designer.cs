@@ -53,6 +53,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btn_Vendas_Realizadas = new System.Windows.Forms.Button();
             this.btb_Abastecer_Estoque = new System.Windows.Forms.Button();
             this.lb_Estoque_CocaCola = new System.Windows.Forms.Label();
             this.btn_Zerar_Estoque = new System.Windows.Forms.Button();
@@ -66,7 +67,6 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.btn_Vendas_Realizadas = new System.Windows.Forms.Button();
             this.gp_bebidas.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -156,11 +156,11 @@
             // 
             this.btn_Zerar.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Zerar.ForeColor = System.Drawing.Color.Olive;
-            this.btn_Zerar.Location = new System.Drawing.Point(182, 277);
+            this.btn_Zerar.Location = new System.Drawing.Point(149, 265);
             this.btn_Zerar.Name = "btn_Zerar";
-            this.btn_Zerar.Size = new System.Drawing.Size(83, 38);
+            this.btn_Zerar.Size = new System.Drawing.Size(122, 50);
             this.btn_Zerar.TabIndex = 16;
-            this.btn_Zerar.Text = "Zerar";
+            this.btn_Zerar.Text = "Nova Venda";
             this.btn_Zerar.UseVisualStyleBackColor = true;
             this.btn_Zerar.Click += new System.EventHandler(this.btn_Zerar_Click);
             // 
@@ -168,7 +168,7 @@
             // 
             this.lb_Troco.AutoSize = true;
             this.lb_Troco.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_Troco.Location = new System.Drawing.Point(86, 290);
+            this.lb_Troco.Location = new System.Drawing.Point(81, 290);
             this.lb_Troco.Name = "lb_Troco";
             this.lb_Troco.Size = new System.Drawing.Size(73, 22);
             this.lb_Troco.TabIndex = 15;
@@ -190,7 +190,7 @@
             // 
             this.lb_Dinheiro.AutoSize = true;
             this.lb_Dinheiro.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_Dinheiro.Location = new System.Drawing.Point(84, 265);
+            this.lb_Dinheiro.Location = new System.Drawing.Point(80, 265);
             this.lb_Dinheiro.Name = "lb_Dinheiro";
             this.lb_Dinheiro.Size = new System.Drawing.Size(73, 22);
             this.lb_Dinheiro.TabIndex = 14;
@@ -222,11 +222,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(-5, 265);
+            this.label6.Location = new System.Drawing.Point(-2, 265);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(90, 25);
+            this.label6.Size = new System.Drawing.Size(87, 25);
             this.label6.TabIndex = 10;
-            this.label6.Text = "Dinheiro:";
+            this.label6.Text = "Inserido:";
             // 
             // btn_Comprar_Pepsi
             // 
@@ -292,7 +292,7 @@
             // 
             this.btn_VinteCincoCentavos.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_VinteCincoCentavos.ForeColor = System.Drawing.Color.Olive;
-            this.btn_VinteCincoCentavos.Location = new System.Drawing.Point(-3, 327);
+            this.btn_VinteCincoCentavos.Location = new System.Drawing.Point(3, 327);
             this.btn_VinteCincoCentavos.Name = "btn_VinteCincoCentavos";
             this.btn_VinteCincoCentavos.Size = new System.Drawing.Size(83, 38);
             this.btn_VinteCincoCentavos.TabIndex = 10;
@@ -371,6 +371,18 @@
             this.groupBox1.Size = new System.Drawing.Size(193, 348);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
+            // 
+            // btn_Vendas_Realizadas
+            // 
+            this.btn_Vendas_Realizadas.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Vendas_Realizadas.ForeColor = System.Drawing.Color.Olive;
+            this.btn_Vendas_Realizadas.Location = new System.Drawing.Point(0, 283);
+            this.btn_Vendas_Realizadas.Name = "btn_Vendas_Realizadas";
+            this.btn_Vendas_Realizadas.Size = new System.Drawing.Size(186, 38);
+            this.btn_Vendas_Realizadas.TabIndex = 19;
+            this.btn_Vendas_Realizadas.Text = "Vendas Realizadas";
+            this.btn_Vendas_Realizadas.UseVisualStyleBackColor = true;
+            this.btn_Vendas_Realizadas.Click += new System.EventHandler(this.btn_Vendas_Realizadas_Click);
             // 
             // btb_Abastecer_Estoque
             // 
@@ -506,26 +518,14 @@
             this.label12.TabIndex = 5;
             this.label12.Text = "Àgua:";
             // 
-            // btn_Vendas_Realizadas
-            // 
-            this.btn_Vendas_Realizadas.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Vendas_Realizadas.ForeColor = System.Drawing.Color.Olive;
-            this.btn_Vendas_Realizadas.Location = new System.Drawing.Point(0, 283);
-            this.btn_Vendas_Realizadas.Name = "btn_Vendas_Realizadas";
-            this.btn_Vendas_Realizadas.Size = new System.Drawing.Size(186, 38);
-            this.btn_Vendas_Realizadas.TabIndex = 19;
-            this.btn_Vendas_Realizadas.Text = "Vendas Realizadas";
-            this.btn_Vendas_Realizadas.UseVisualStyleBackColor = true;
-            this.btn_Vendas_Realizadas.Click += new System.EventHandler(this.btn_Vendas_Realizadas_Click);
-            // 
-            // window_maquina_bebidas
+            // Window_maquina_bebidas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(632, 450);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.gp_bebidas);
-            this.Name = "window_maquina_bebidas";
+            this.Name = "Window_maquina_bebidas";
             this.Text = "Máquina de Bebidas";
             this.gp_bebidas.ResumeLayout(false);
             this.gp_bebidas.PerformLayout();

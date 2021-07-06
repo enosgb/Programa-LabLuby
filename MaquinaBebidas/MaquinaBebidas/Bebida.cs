@@ -4,14 +4,14 @@ public class Bebida
 {
 	public Bebida() { }
 
-	public string descricao { get; set; }
-	public double valor { get; set; }
-	public int estoque { get; set; }
+	public string Descricao { get; set; }
+	public double Valor { get; set; }
+	public int Estoque { get; set; }
 
 	public Bebida(string descricao, double valor, int estoque)
 	{
-		this.descricao = descricao;
-		this.valor = valor;
-		this.estoque = estoque;
+		this.Descricao = descricao;
+		this.Valor = valor;
+		this.Estoque = estoque;
 	}
 }
