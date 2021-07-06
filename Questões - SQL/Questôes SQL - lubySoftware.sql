@@ -26,7 +26,7 @@ DELETE FROM tabela_evento WHERE evento = 'Evento B';
 
 #2.6 Crie uma query para remover todas as pessoas 'tabela_pessoa' 
 #que não possuem eventos 'tabela_evento' relacionados.
-#*********
+
 DELETE FROM tabela_pessoa
 WHERE id NOT IN (SELECT DISTINCT pessoa.id FROM tabela_pessoa AS pessoa JOIN tabela_evento AS evento
 ON pessoa.id = evento.pessoa_id);
