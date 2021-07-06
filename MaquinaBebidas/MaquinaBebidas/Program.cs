@@ -16,7 +16,7 @@ namespace MaquinaBebidas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new window_maquina_bebidas());
+            Application.Run(new Window_maquina_bebidas());
         }
     }
 }

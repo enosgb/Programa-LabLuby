@@ -7,3 +7,14 @@ C:\Users\Administrador\source\repos\MaquinaBebidas\MaquinaBebidas\obj\Debug\Maqu
 C:\Users\Administrador\source\repos\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.csproj.GenerateResource.cache
 C:\Users\Administrador\source\repos\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.exe
 C:\Users\Administrador\source\repos\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.pdb
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.csprojAssemblyReference.cache
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.window_maquina_bebidas.resources
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.Properties.Resources.resources
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.csproj.GenerateResource.cache
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.csproj.CoreCompileInputs.cache
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.exe
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.pdb
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\bin\Debug\MaquinaBebidas.exe.config
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\bin\Debug\MaquinaBebidas.exe
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\bin\Debug\MaquinaBebidas.pdb
+C:\Users\Enos\Desktop\Teste-Tecnico-Programa-LabLuby--main\MaquinaBebidas\MaquinaBebidas\obj\Debug\MaquinaBebidas.window_vendas.resources

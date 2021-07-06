@@ -46,17 +46,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bebida.cs" />
-    <Compile Include="window_maquina_bebidas.cs">
+    <Compile Include="Bebida.cs" />
+    <Compile Include="Window_vendas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="window_maquina_bebidas.Designer.cs">
-      <DependentUpon>window_maquina_bebidas.cs</DependentUpon>
+    <Compile Include="Window_vendas.Designer.cs">
+      <DependentUpon>Window_vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda.cs" />
+    <Compile Include="Window_maquina_bebidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Window_maquina_bebidas.Designer.cs">
+      <DependentUpon>Window_maquina_bebidas.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="window_maquina_bebidas.resx">
-      <DependentUpon>window_maquina_bebidas.cs</DependentUpon>
+    <EmbeddedResource Include="Window_vendas.resx">
+      <DependentUpon>Window_vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Window_maquina_bebidas.resx">
+      <DependentUpon>Window_maquina_bebidas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
