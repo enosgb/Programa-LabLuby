@@ -4,7 +4,9 @@ USE lubysoftware;
 #desabilitar safe mode
 
 SET SQL_SAFE_UPDATES = 0;
+
 #criando tabelas iniciais 
+
 CREATE TABLE tabela_pessoa
 (
 	id INT NOT NULL AUTO_INCREMENT,
