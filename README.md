@@ -11,7 +11,7 @@ Nesta mesma pasta também contem um arquivo "Questões SQL - LubySoftware.sql" c
 # Máquina de Bebidas
 
 Na pasta Máquina de Bebidas Contém o programa que foi solicitado.
-Para executar o programa , basta apenas abrir o  arquivo "MaquinaBebidas.sln" com o visual studio. Eu utilizei o 2019
+Para executar o programa , basta apenas abrir o  arquivo "MaquinaBebidas.sln" com o visual studio. (Eu utilizei o 2019)
 E executa-lo diretamento do Visual Studio.
 
 
