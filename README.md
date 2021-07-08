@@ -1,7 +1,7 @@
 # Teste-Técnico-Programa-LabLuby-
 Repositório criado para responder questões do Teste técnico Luby Software!
 
-Na pasta Questões Lógica de Programação , Contém um arquivo ".cs" como totas a funções solicitadas.
+Na pasta Questões Lógica de Programação , Contém um arquivo ".cs" com todas as funções solicitadas.
 Nesta mesma pasta também contém um programa de console para cada função com a extensão ".sln".
 
 Na pasta Questões - SQL contém um arquivo "TabelasIniciais.sql" que cria as tabelas de exemplo.
